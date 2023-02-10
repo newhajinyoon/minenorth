@@ -1,0 +1,13 @@
+{
+	"pack": {
+		"pack_format": 12,
+		"description": "문화어 패치 V 1.0 by jinyoon"
+	},
+	"language": {
+		"ko_kp": {
+			"name": "문화어",
+			"region": "조선민주주의인민공화국",
+			"bidirectional": "false"
+		}
+	}
+}
